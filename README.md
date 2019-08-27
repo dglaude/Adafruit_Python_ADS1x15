@@ -4,4 +4,4 @@ This library has been deprecated! We are leaving this up for historical and rese
 
 We are now only supporting the use of our CircuitPython libraries for use with Python.
 
-Check out this guide for info on using character LCDs with the CircuitPython library: https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15
+Check out this guide for info on using analog to digital converters with the CircuitPython library: https://github.com/adafruit/Adafruit_CircuitPython_ADS1x15
